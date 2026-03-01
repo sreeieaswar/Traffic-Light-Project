@@ -11,7 +11,7 @@ function LoginForm(){
     const[isloggedin,setIsloggedin]=useState(false);
 
     const handleLogin=()=>{
-        if(username==="admin" && password==="1234"){
+        if(username==="varsha" && password==="varsha@rcet"){
             setMessage("login successful");  
             setIsloggedin(true);
         }else{
