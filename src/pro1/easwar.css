@@ -1,0 +1,23 @@
+.main-box{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    margin-top: 200px;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.15);
+
+}
+body{
+    background: linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.main-box h2{
+    font-size: 30px;
+    color: coral;
+}
+.main-box input{
+    border-radius: 15px;
+    padding-top: 10px;
+}
