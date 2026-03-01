@@ -1,6 +1,6 @@
 import { useState } from "react";
-import Traffic from "./eas";
-import './easwar.css';
+import Traffic from "./structure";
+import './output.css';
 import { Button } from "react-bootstrap";
 
 function LoginForm(){

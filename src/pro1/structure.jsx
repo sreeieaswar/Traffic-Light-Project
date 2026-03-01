@@ -2,7 +2,7 @@
 import {useState} from 'react';
 import { Button } from 'react-bootstrap';
 
-import './eas.css';
+import './structure.css';
 
 function Traffic(){
     const[red,setRed]=useState("white")

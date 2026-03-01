@@ -1,6 +1,6 @@
 
 import './App.css';
-import LoginForm from './pro1/easwar';
+import LoginForm from './pro1/output';
 
 function App() {
   return(
